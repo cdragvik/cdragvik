@@ -21,7 +21,7 @@ What sets me apart is my extensive experience in home healthcare. I've developed
 Here are some of my notable projects:
 
 1. [Holidaze](https://github.com/cdragvik/holidaze) - My last exam project during my studies: a user-centric accommodation booking application offering a dual-platform experience: a customer interface for easy holiday bookings, and an admin interface for managing venue listings and reservations.
-2. [Fine Wine Auction(https://github.com/cdragvik/semester-project-2) - This website is an online wine auction platform, where users can buy and sell wine items through bidding, with a focus on user registration, credit management, and auction listing.
+2. [Fine Wine Auction](https://github.com/cdragvik/semester-project-2) - This website is an online wine auction platform, where users can buy and sell wine items through bidding, with a focus on user registration, credit management, and auction listing.
 3. [One Stop Shop ](https://github.com/cdragvik/eCom-store) - This project involves building an e-commerce website with features such as product listings, individual product pages, a shopping cart, checkout process, and contact form, using React and React Router, with a focus on responsive design and clean code.
 
 ## Always Learning
