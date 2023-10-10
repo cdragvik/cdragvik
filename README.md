@@ -1,12 +1,25 @@
-### Hi there 👋
+# Christiane Nanette Dragvik
 
-I am a dedicated and motivated aspiring frontend-developer with a background in healthcare. Currently, I am in the process of completing my studies in frontend-development at Noroff while simultaneously working as a social educator/nurse in Asker Kommune. My experience in the fast-paced and unpredictable environment of home nursing service has enabled me to develop highly valuable skills in problem-solving, communication and teamwork. I strongly believe that these skills make me an ideal candidate for roles that require working closely with other team members. Throughout my academic journey, I have cultivated a deep interest in user experience and accessible design, and I am enthusiastic about continuously expanding my knowledge in these areas and development in general. I am highly motivated to take on new challenges and leverage my healthcare and technical knowledge to thrive in my career transition to frontend-development.
+👋 Hello! I'm Christiane, a dedicated and motivated frontend developer with a unique background in healthcare.
 
-## 🔭 I am currntly working on:
-my portfolio website.
+## About Me
 
-## 💬 Get in touch: 
-My linkedIn page: https://www.linkedin.com/in/christiane-nanette-dragvik/
-My email: cndragvik@gmail.com
+My journey in healthcare exposed me to the transformative power of technology in improving patient care, igniting my passion for web development.
 
+Currently, I'm on the verge of completing my studies in frontend development at Noroff. Through this program, I've honed my skills in web design and development, mastering frontend technologies such as HTML, CSS, JavaScript, React, and utilizing version control with Git and GitHub. My education has instilled a keen sense of project planning, responsive design, accessibility, performance optimization, and delivering exceptional user interfaces and experiences.
 
+## What Sets Me Apart
+
+What sets me apart is my extensive experience in home healthcare. I've developed strong competencies in problem-solving, effective communication, and seamless interdisciplinary collaboration. In critical, high-pressure situations, I've led cross-functional teams to address urgent needs, showcasing my ability to navigate unpredictable circumstances with clear communication and quick decision-making. I strongly believe that these skills make me an ideal candidate for roles that require working closely with other team members. 
+
+## Always Learning
+
+As a self-motivated learner, I embrace new challenges with enthusiasm.
+
+## Let's Connect
+
+Feel free to connect with me and explore potential collaborations or conversations about technology, development, or anything else!
+
+📧 Email: [cndragvik@gmail.com](mailto:cndragvik@gmail.com)
+
+🌐 LinkedIn: [linkedin.com/in/christiane-nanette-dragvik](https://www.linkedin.com/in/christiane-nanette-dragvik/)
